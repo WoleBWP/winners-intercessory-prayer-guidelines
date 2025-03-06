@@ -1,0 +1,22 @@
+
+.scripture {
+    margin-left: 15px;
+}
+p {
+    font-size: 17px;
+}
+
+.title-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+}
+@media (max-width: 400px) {
+    .responsive {
+        width: 100%;
+    }
+}
+ol {
+     font-weight: bold;
+}
